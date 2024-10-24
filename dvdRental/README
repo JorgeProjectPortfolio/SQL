@@ -1,1 +1,3 @@
 En este proyecto se utiliza PostgreSQL. Se explora y se realizan consultas sobre la data DVDRental
+dvdRentalProject -> se realizan preguntas clave para entender el negocio, indicadores, etc.
+explorando_dvdRental -> se realizan consultas basicas a intermedias usando diferentes cláusulas y funciones.
